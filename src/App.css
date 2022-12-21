@@ -1,0 +1,18 @@
+/* .ETableCellText{
+    background-color: green;
+    color: white !important;
+    font-size: 16px;
+  }
+  
+  body {
+    background-color: white;
+   } */
+   /* .App{
+    width: 50%;
+    padding-left: 38px;
+    background-color:rgb(206, 144, 28)
+    color: rgb(238, 224, 26);
+   } */
+   @import "rsuite/dist/rsuite.css";
+
+#root{ padding: 10px; }
